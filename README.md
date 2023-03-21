@@ -1,5 +1,5 @@
 # Interactome Signatures
-Interactome signature modeling for the [Ligand Discovery](https://ligand-discovery.ai) project. This repository contains a monolithic Jupyter Notebook used to generate interactome signatures from fully-functionalized fragment screening data.
+Interactome signature modeling for the [Ligand Discovery](https://ligand-discovery.ai) project. This repository contains a monolithic [Jupyter Notebook](https://jupyter.org/) used to generate interactome signatures from fully-functionalized fragment screening data.
 
 ## Usage
 Open the `InteractomeSignatures.ipynb` notebook and install the necessary dependencies, as specified in the first executable cell.
